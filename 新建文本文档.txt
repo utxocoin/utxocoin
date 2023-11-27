@@ -1,0 +1,38 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>UTXO - 一个基于Liquid的加密货币</title>
+    <style>
+        body {
+            background-color: white;
+            color: black;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            text-align: center;
+        }
+        p {
+            text-indent: 2em;
+        }
+        a {
+            color: blue;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>UTXO - 一个基于Liquid的加密货币</h1>
+    <p>UTXO是一个新的加密货币，它运行在比特币的二层网络Liquid上。Liquid是一个侧链技术，它可以实现比特币的快速、安全和私密的转账。UTXO的目标是让Liquid上的每一个人都能够拥有自己的UTXO，从而体验Liquid的优势。</p >
+    <p>UTXO的总量为$$210000000000000$$。UTXO的最初发行方式是通过空投的形式，每个Liquid地址可以免费领取一定数量的UTXO。目前，每个Liquid地址可以领取$$1000000000$$个UTXO。随着时间的推移，每个地址可以领取的UTXO的数量会逐渐减少。</p >
+    <p>要想免费获取UTXO，你需要做以下几件事：</p >
+    <ul>
+        <li>创建一个Liquid地址，你可以使用SideSwap这个应用来轻松地创建和管理你的Liquid地址。</li>
+        <li>关注推特账号SideSwapCN，并在评论区中留下你的Liquid地址。</li>
+        <li>等待空投到你的Liquid地址，你可以在SideSwap中查看你的UTXO余额。</li>
+    </ul>
+    <p>如果你想了解更多关于UTXO和Liquid的信息，你可以访问sideswap中文电报群https://t.me/sideswapcn，或者搜索网上的其他资源。希望你喜欢UTXO这个加密货币。😊</p >
+</body>
+</html>
